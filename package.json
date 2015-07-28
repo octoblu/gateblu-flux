@@ -1,0 +1,32 @@
+{
+  "name": "gateblu-flux",
+  "version": "1.0.0",
+  "description": "Gateblu from Octoblu, powered by Facebook's Flux architecture",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/octoblu/gateblu-flux.git"
+  },
+  "keywords": [
+    "iot",
+    "internet",
+    "of",
+    "things",
+    "gateblu",
+    "octoblu",
+    "meshblu"
+  ],
+  "author": "redaphid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/octoblu/gateblu-flux/issues"
+  },
+  "homepage": "https://github.com/octoblu/gateblu-flux#readme",
+  "dependencies": {
+    "coffee-reactify": "^4.0.0",
+    "coffee-script": "^1.9.3"
+  }
+}
